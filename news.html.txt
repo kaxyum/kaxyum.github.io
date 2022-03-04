@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <title>NEWS</title>
+      <link href="style.css" rel="stylesheet" type="text/css" />
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+      <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.png">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="script.js"></script>
+  </head>
+    <body>
+	  
+        <div class="container">
+
+          <!--────────────────Header───────────────-->
+	<header>
+		<nav>	
+		 <ul class="nav-bar"><div class="bg"></div>
+			<li><a class="nav-link" href="index.html">Home</a></li>
+			<li><a class="nav-link" href="">PLAY</a></li>
+			<li><a class="nav-link" href="">VOTE</a></li>
+		 </ul>			
+			<div class="hamburger">
+				<div class="line1"></div>
+            <div class="line2"></div>
+				<div class="line3"></div>
+			</div>
+		</nav>
+	</header>
+	<main>
+    <!--─────────────────Home────────────────-->
+	  <div id="home">
+		 <div class="filter"></div>
+		 <section class="intro">
+		  <h3>NEWS<hr></h3>
+		  <p></p>
+		  <p></p>
+          <p></p>
+
+<!---------------------------------------->
+
+      <div class="card">
+			    <img class="work-img" src="https://cdn.discordapp.com/attachments/821421926424903754/911987485536571432/IMG_0809.jpg">
+			    <li><a href="" target=""></li> <!--Link to project-->
+				<div class="work-content">site de theclans ouvert!</div></a>
+            </div>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <title>THECLANS</title>
+      <link href="style.css" rel="stylesheet" type="text/css" />
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+      <link rel="icon" href="https://cdn.discordapp.com/attachments/821421926424903754/911987485536571432/IMG_0809.jpg">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="script.js"></script>
+  </head>
+    <body>
+
+	  
+        <div class="container">
+
+	  
+		<!--────────────────Header───────────────-->
+
+		<header>
+			<nav>
+				<ul class="nav-bar">
+					<div class="bg"></div>
+					<li><a class="nav-link" href="#home">Home</a></li>
+					<li><a class="nav-link" href="boutique.html">Boutique</a></li>
+					<li><a class="nav-link" href="news.html">News</a></li>
+				</ul>
+
+				<div class="hamburger">
+					<div class="line1"></div>
+					<div class="line2"></div>
+					<div class="line3"></div>
+				</div>
+			</nav>
+		</header>
+		<main>
+
+
+
+		<!--─────────────────Home────────────────-->
+ 
+
+	  <div id="home">
+		 <div class="filter"></div>
+		 <section class="intro">
+		  <h3>THECLANS<hr></h3>
+		  <p>Serveur Minecraft</p>
+		  <p></p>
+          <p></p>
+			  
+		  <!--────social media links─────-->
+			 
+		  <div class="social-media">
+			  <a href="#" target=""><i class='fab fa-twitter'></i></a>
+			  <a href="https://dsc.gg/theclans" target=""><i class="fab fa-discord"></i></a>
+		    </div>
+			 
+		 </section> 
+	  </div>  
+		
+		 
+
+	</main>
+	  <footer class="copyright">©
+		  <a href="" target="">  THECLANS.</a>
+     </footer>
+	  
+  </div>
+  </body>
+</html>
