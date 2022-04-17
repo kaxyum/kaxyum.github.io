@@ -95,7 +95,8 @@ a.nav-link{
 
 button{
 color: #0d011d;
-background-color: #580eb8;
+background-color: #b90e0e;
+border-radius:10px 10px 10px 10px;
 }
 
 .intro {
