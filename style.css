@@ -107,24 +107,24 @@ a.nav-link{
 }
 
 .button1 {
-  background-color: orange;
+  background-color: #FF8000;
   color: black;
-  border: 2px solid #4CAF50;
+  border: 2px solid #FF8000;
 }
 
 .button1:hover {
-  background-color: orange;
+  background-color: #DF7401;
   color: black;
 }
 
 .button2 {
-  background-color: orange;
+  background-color: #FF8000;
   color: black;
-  border: 2px solid #008CBA;
+  border: 2px solid #FF8000;
 }
 
 .button2:hover {
-  background-color: orange;
+  background-color: #DF7401;
   color: black;
 }
 
