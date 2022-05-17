@@ -195,8 +195,8 @@ border-radius:10px 10px 10px 10px;
 	display: flex;
 	flex-direction: column;
 	margin: 20px;
-	width: 150px;
-	height: 100px;
+	width: 200px;
+	height: 150px;
   border-radius:5px 5px 5px 5px;
 	
     background:var(--main-decor-color);
