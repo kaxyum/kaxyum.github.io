@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 :root{
-	--main-background: #0A0A2A;
+	--main-background: #070719;
 	--main-fonts-color: rgb(255, 255, 255);
 	--main-decor-color:#FFFF00;
     --main-header-background:#000000;
@@ -222,9 +222,9 @@ a.nav-link{
 
 .card {
   /* Add shadows to create the "card" effect */
-  width: 200px;
+  width: 250px;
   height: 150px;
-  background-color: #0B0B3B;
+  background-color: #0A0A2A;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
 }
